@@ -118,97 +118,6 @@
       "name": "Владимир Бугаев",
       "jobTitle": "Ведущий менеджер по развитию и продажам перформанс-продуктов, Яндекс Реклама",
       "city": "г. Москва"
-    },
-    {
-      "id": 17,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/39a/400_400_0/39aa32c6ceeb4b4ac4786fbc4d96a03c.png",
-      "name": "Анна-Мария Семёнова",
-      "jobTitle": "Problem Solver, консультант в построении маркетинговых, коммуникационных, бренд-стратегий, ex Creative Director Marketing Division Agency",
-      "city": "г. Нижний Новгород"
-    },
-    {
-      "id": 18,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/3e7/400_400_0/3e773311bb06709a8726b3b74c22a087.jpeg",
-      "name": "Александра Новохацкая",
-      "jobTitle": "Основательница и креативный директор студии «Яндекса» «7.47». Более 11 лет опыта работы, в том числе в международных агентствах (BBDO, Ogilvy)",
-      "city": "г. Москва"
-    },
-    {
-      "id": 19,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/6e3/400_400_0/6e3616fbae0851c104d9e590d5a7a2f1.jpg",
-      "name": "Машер Казанова",
-      "jobTitle": "CREATIVE SCOUT REDKEDS & G8 FEST",
-      "city": "г. Москва"
-    },
-    {
-      "id": 20,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/ded/400_400_0/dedf8676f4a324f7279ca3a19f23778c.jpg",
-      "name": "Виталий Быков",
-      "jobTitle": "CEO REDKEDS и G8 FEST",
-      "city": "г. Москва"
-    },
-    {
-      "id": 21,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/a3d/400_400_0/a3d9811d7f74555917833ac3a37d2e21.JPG",
-      "name": "Алеся Задворнова",
-      "jobTitle": "Продуктовый маркетолог направления «Высшее образование» в Нетологии",
-      "city": "г. Новосибирск"
-    },
-    {
-      "id": 22,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/a12/400_400_0/a12e9fe75d28695b13751ecaaebe434d.png",
-      "name": "Евгений Кузьмин",
-      "jobTitle": "Дизайн-директор и основатель Uprock. 18 лет опыта в дизайне. Более 150 наград, в том числе 'Лучший сайт года'",
-      "city": "г. Москва"
-    },
-    {
-      "id": 23,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/acd/400_400_0/acd6878303d77c3bc27c563bdf1ecf2c.jpeg",
-      "name": "Валерия Зотова",
-      "jobTitle": "PR-менеджер MediaNation и продюсер подкаста «Лида, где лиды?»",
-      "city": "г. Москва"
-    },
-    {
-      "id": 24,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/bc3/400_400_0/bc3ed0f9f9529d94e23d47626823d6e4.jpg",
-      "name": "Елизавета Козылова",
-      "jobTitle": "Исполнительный директор репутационного агентства DAYNET",
-      "city": "г. Нижний Новгород"
-    },
-    {
-      "id": 25,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/e31/400_400_0/e31e6f002950d2f9b6e39f5aaf2e62e9.png",
-      "name": "Алёна Борщёва",
-      "jobTitle": "Основатель и CEO сервиса аналитики соцсетей и digital рекламы DataFan, маркетинговый аналитик",
-      "city": "г. Москва"
-    },
-    {
-      "id": 26,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/151/400_400_0/15123583d105f9d52f85d9ac8c4ffadb.jpg",
-      "name": "Дарья Черенкова",
-      "jobTitle": "Digital-стратег, таргетолог. Автор курса и преподаватель в Нетологии. Приглашенный специалист-стратег в агентства: SETTERS, State of Mind, КБ-12",
-      "city": "г. Санкт-Петербург"
-    },
-    {
-      "id": 27,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/cd0/400_400_0/cd0acfdbd9fd406965a63da62acc3ce0.jpg",
-      "name": "Дмитрий Фердман",
-      "jobTitle": "Наставник по увеличению прибыли digital-специалистов, руководитель SMM-агентства LevelUP",
-      "city": "г. Санкт-Петербург"
-    },
-    {
-      "id": 28,
-      "imageUrl": "https://digitalnn.ru/upload/iblock/a55/a555db2d432e6578f763c62cb37b0ab5.jpg",
-      "name": "Диана Сурова",
-      "jobTitle": "SEO-специалист агентства интернет-маркетинга R-Top",
-      "city": "г. Нижний Новгород"
-    },
-    {
-      "id": 29,
-      "imageUrl": "https://digitalnn.ru/upload/resize_cache/iblock/2da/400_400_0/2dab7d8ea1505d0f3847a6e3b7733c41.jpeg",
-      "name": "Александр Ожгибесов",
-      "jobTitle": "Руководитель студии Ozhgibesov Agency",
-      "city": "г. Воронеж"
     }
   ],
   "tickets": [
@@ -294,6 +203,12 @@
       "text": "Эти случаи совершенно просты и легко различимы. В свободный час, когда наша свобода выбора ничем не ограничена и когда ничто не мешает нам делать то, что нам больше всего нравится, нужно приветствовать любое удовольствие и избегать любой боли.",
       "pageName": "speakers",
       "id": "4"
+    }
+  ],
+  "selectTickets": [
+    {
+      "id": 1,
+      "title": "Post 1"
     }
   ]
 }
